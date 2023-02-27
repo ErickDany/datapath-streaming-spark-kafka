@@ -11,9 +11,9 @@ Sería interesante poder replicar este ejercicio con un ambiente mas poderoso, s
 
 - Resultados (topic: matchesF)
 
-![alt text](https://drive.google.com/file/d/1s-1CZKoUxV_EI5SnSmXpPfbidvjA3IYH/view?usp=share_link)
+![alt text](https://raw.githubusercontent.com/ErickDany/datapath-streaming-spark-kafka/main/sebastianPeralta/assets/first.PNG)
 
-![alt text](https://drive.google.com/file/d/14qSe-9HChd5Tb4KySRLUUGDEAMpEHVtw/view?usp=share_link)
+![alt text](https://raw.githubusercontent.com/ErickDany/datapath-streaming-spark-kafka/main/sebastianPeralta/assets/sec.PNG)
 
-![alt text](https://drive.google.com/file/d/1b8epaQFEGF8gdhdLXjgF9wRLfUzK70OW/view?usp=share_link)
+![alt text](https://raw.githubusercontent.com/ErickDany/datapath-streaming-spark-kafka/main/sebastianPeralta/assets/third.PNG)
 
